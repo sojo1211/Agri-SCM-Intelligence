@@ -1,6 +1,7 @@
 # Agri-SCM-Intelligence
 
-<img width="335" height="279" alt="스크린샷 2025-11-28 오전 6 52 02" src="https://github.com/user-attachments/assets/3eb27d9c-e4ee-4e9f-b0c3-04844ba50de9" />
+<img width="355" height="519" alt="스크린샷 2025-11-28 오전 6 44 34" src="https://github.com/user-attachments/assets/c7d48f97-771b-455d-bf77-925710fd8d38" />
+
 <img width="355" height="519" alt="스크린샷 2025-11-28 오전 6 44 34" src="https://github.com/user-attachments/assets/e088be0a-6aaf-4a2b-b5aa-1202e220257d" />
 
 
