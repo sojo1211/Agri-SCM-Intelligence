@@ -1,4 +1,6 @@
 # Agri-SCM-Intelligence
+<img width="355" height="519" alt="image" src="https://github.com/user-attachments/assets/595cac85-4b78-45a6-b518-8b2c22f992d0" />
+![Uploading image.png…]()
 
 오늘 소개해드릴 창업 아이템은 Agri-SCM Intelligence로 전국 농산물 공급망 인텔
 리전스 플랫폼 입니다.
