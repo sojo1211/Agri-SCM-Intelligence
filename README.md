@@ -1,10 +1,12 @@
 # Agri-SCM-Intelligence
-<img width="355" height="519" alt="image" src="https://github.com/user-attachments/assets/595cac85-4b78-45a6-b518-8b2c22f992d0" />
-![Uploading image.png…]()
+<img width="355" height="519" alt="image" sr<img width="335" height="279" alt="스크린샷 2025-11-28 오전 6 52 02" src="https://github.com/user-attachments/assets/48e35356-4c62-4b78-b5cf-35990a20b410" />
+c="https://github.com/user-attachments/assets/595cac85-4b78-45a6-b518-8b2c22f992d0" />
+
 
 오늘 소개해드릴 창업 아이템은 Agri-SCM Intelligence로 전국 농산물 공급망 인텔
 리전스 플랫폼 입니다.
-<img width="1075" height="590" alt="image" src="https://github.com/user-attachments/assets/1b0ae900-7add-4b0c-a540-6650f429700c" />
+<img width="1075" height="590" alt="image" src="https://github.com/user-attachments/assets/1b0ae900-7add-4b0![Uploading 스크린샷 2025-11-28 오전 6.52.02.png…]()
+c-a540-6650f429700c" />
 
 
 저희가 이 아이템을 추진하게 된 배경에는 세 가지 큰 문제가 있습니다.
