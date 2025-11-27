@@ -1,7 +1,10 @@
 # Agri-SCM-Intelligence
 
 <img width="335" height="279" alt="스크린샷 2025-11-28 오전 6 52 02" src="https://github.com/user-attachments/assets/3eb27d9c-e4ee-4e9f-b0c3-04844ba50de9" />
-<img width="355" height="519" alt="스크린샷 2025-11-28 오전 6 44 34" src="https://github.com/user-attachments/assets/085aa318-963c-46a9-8e71-9b20c8e854d4" />
+<img width="355" height="519" alt="스크린샷 2025-11-28 오전 6 44 34" src="https://github.com/user-attachments/assets/e088be0a-6aaf-4a2b-b5aa-1202e220257d" />
+
+
+
 
 
 오늘 소개해드릴 창업 아이템은 Agri-SCM Intelligence로 전국 농산물 공급망 인텔
