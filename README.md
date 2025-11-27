@@ -1,3 +1,10 @@
+# 🌾 Agri-SCM Intelligence
+
+국내 농산물 공급망 예측 기반 인텔리전스 플랫폼
+
+<img width="287" height="263" src="https://github.com/user-attachments/assets/1ce4b8f0-44f5-424c-bdb8-a9905296622a" />
+<img width="334" height="493" src="https://github.com/user-attachments/assets/7f4438d9-c479-4642-9b19-9960848001bd" />
+
 ---
 
 # 🚀 나의 역할 (핵심 개발자 / Backend & Forecasting Lead)
@@ -31,12 +38,8 @@
 
 ---
 
-# 🌾 Agri-SCM Intelligence
 
-국내 농산물 공급망 예측 기반 인텔리전스 플랫폼
 
-<img width="287" height="263" src="https://github.com/user-attachments/assets/1ce4b8f0-44f5-424c-bdb8-a9905296622a" />
-<img width="334" height="493" src="https://github.com/user-attachments/assets/7f4438d9-c479-4642-9b19-9960848001bd" />
 
 ## 📌 프로젝트 개요
 
